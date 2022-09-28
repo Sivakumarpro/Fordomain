@@ -6,4 +6,7 @@ public class Sample {
 		System.out.println("1");
 		
 	}
+	private void m2() {
+		System.out.println("2");
+	}
 }
