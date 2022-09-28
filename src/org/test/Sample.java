@@ -7,4 +7,7 @@ public class Sample {
 		System.out.println("modify master");
 		
 	}
+	private void m2() {
+		System.out.println("2");
+	}
 }
